@@ -1,0 +1,13 @@
+{
+  "name": "@tatane/npm-tatane",
+  "version": "1.0.0",
+  "description": "npm package example",
+  "main": "index.js",
+  "bin": "bin/sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatane616/npm-tatane.git"
+  },
+  "author": "tatane616",
+  "license": "MIT"
+}
